@@ -1,0 +1,337 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    
+    {
+      "type": "java",
+      "name": "Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    },
+    {
+      "type": "java",
+      "name": "AssignmentOperator1",
+      "request": "launch",
+      "mainClass": "AssignmentOperator1",
+      "projectName": "java_files_87f3b032"
+    },
+    {
+      "type": "java",
+      "name": "AssignmentOperator2",
+      "request": "launch",
+      "mainClass": "AssignmentOperator2",
+      "projectName": "java_files_87f3b032"
+    },
+    {
+      "type": "java",
+      "name": "BinaryOperators",
+      "request": "launch",
+      "mainClass": "BinaryOperators",
+      "projectName": "java_files_87f3b032"
+    },
+    {
+      "type": "java",
+      "name": "Character",
+      "request": "launch",
+      "mainClass": "Character",
+      "projectName": "java_files_87f3b032"
+    },
+    {
+      "type": "java",
+      "name": "Circle",
+      "request": "launch",
+      "mainClass": "Circle",
+      "projectName": "java_files_87f3b032"
+    },
+    {
+      "type": "java",
+      "name": "DataType",
+      "request": "launch",
+      "mainClass": "DataType",
+      "projectName": "java_files_87f3b032"
+    },
+    {
+      "type": "java",
+      "name": "EvenOdd",
+      "request": "launch",
+      "mainClass": "EvenOdd",
+      "projectName": "java_files_87f3b032"
+    },
+    {
+      "type": "java",
+      "name": "If_else1",
+      "request": "launch",
+      "mainClass": "If_else1",
+      "projectName": "java_files_87f3b032"
+    },
+    {
+      "type": "java",
+      "name": "Input",
+      "request": "launch",
+      "mainClass": "Input",
+      "projectName": "java_files_87f3b032"
+    },
+    {
+      "type": "java",
+      "name": "LargestOf2",
+      "request": "launch",
+      "mainClass": "LargestOf2",
+      "projectName": "java_files_87f3b032"
+    },
+    {
+      "type": "java",
+      "name": "LogicalAnd1",
+      "request": "launch",
+      "mainClass": "LogicalAnd1",
+      "projectName": "java_files_87f3b032"
+    },
+    {
+      "type": "java",
+      "name": "LogicalAnd2",
+      "request": "launch",
+      "mainClass": "LogicalAnd2",
+      "projectName": "java_files_87f3b032"
+    },
+    {
+      "type": "java",
+      "name": "LogicalNot",
+      "request": "launch",
+      "mainClass": "LogicalNot",
+      "projectName": "java_files_87f3b032"
+    },
+    {
+      "type": "java",
+      "name": "LogicalOr1",
+      "request": "launch",
+      "mainClass": "LogicalOr1",
+      "projectName": "java_files_87f3b032"
+    },
+    {
+      "type": "java",
+      "name": "Pattern",
+      "request": "launch",
+      "mainClass": "Pattern",
+      "projectName": "java_files_87f3b032"
+    },
+    {
+      "type": "java",
+      "name": "Product",
+      "request": "launch",
+      "mainClass": "Product",
+      "projectName": "java_files_87f3b032"
+    },
+    {
+      "type": "java",
+      "name": "Question1",
+      "request": "launch",
+      "mainClass": "Question1",
+      "projectName": "java_files_87f3b032"
+    },
+    {
+      "type": "java",
+      "name": "Question2",
+      "request": "launch",
+      "mainClass": "Question2",
+      "projectName": "java_files_87f3b032"
+    },
+    {
+      "type": "java",
+      "name": "Question3",
+      "request": "launch",
+      "mainClass": "Question3",
+      "projectName": "java_files_87f3b032"
+    },
+    {
+      "type": "java",
+      "name": "Question4",
+      "request": "launch",
+      "mainClass": "Question4",
+      "projectName": "java_files_87f3b032"
+    },
+    {
+      "type": "java",
+      "name": "Question5",
+      "request": "launch",
+      "mainClass": "Question5",
+      "projectName": "java_files_87f3b032"
+    },
+    {
+      "type": "java",
+      "name": "RelationOperator1",
+      "request": "launch",
+      "mainClass": "RelationOperator1",
+      "projectName": "java_files_87f3b032"
+    },
+    {
+      "type": "java",
+      "name": "RelationOperator2",
+      "request": "launch",
+      "mainClass": "RelationOperator2",
+      "projectName": "java_files_87f3b032"
+    },
+    {
+      "type": "java",
+      "name": "RelationOperator3",
+      "request": "launch",
+      "mainClass": "RelationOperator3",
+      "projectName": "java_files_87f3b032"
+    },
+    {
+      "type": "java",
+      "name": "RelationOperator4",
+      "request": "launch",
+      "mainClass": "RelationOperator4",
+      "projectName": "java_files_87f3b032"
+    },
+    {
+      "type": "java",
+      "name": "RelationOperator5",
+      "request": "launch",
+      "mainClass": "RelationOperator5",
+      "projectName": "java_files_87f3b032"
+    },
+    {
+      "type": "java",
+      "name": "RelationOperator6",
+      "request": "launch",
+      "mainClass": "RelationOperator6",
+      "projectName": "java_files_87f3b032"
+    },
+    {
+      "type": "java",
+      "name": "Sum",
+      "request": "launch",
+      "mainClass": "Sum",
+      "projectName": "java_files_87f3b032"
+    },
+    {
+      "type": "java",
+      "name": "SumInput",
+      "request": "launch",
+      "mainClass": "SumInput",
+      "projectName": "java_files_87f3b032"
+    },
+    {
+      "type": "java",
+      "name": "TypeCasting",
+      "request": "launch",
+      "mainClass": "TypeCasting",
+      "projectName": "java_files_87f3b032"
+    },
+    {
+      "type": "java",
+      "name": "TypeCastingException",
+      "request": "launch",
+      "mainClass": "TypeCastingException",
+      "projectName": "java_files_87f3b032"
+    },
+    {
+      "type": "java",
+      "name": "TypeCastingException2",
+      "request": "launch",
+      "mainClass": "TypeCastingException2",
+      "projectName": "java_files_87f3b032"
+    },
+    {
+      "type": "java",
+      "name": "TypeCastingException3",
+      "request": "launch",
+      "mainClass": "TypeCastingException3",
+      "projectName": "java_files_87f3b032"
+    },
+    {
+      "type": "java",
+      "name": "TypeConversion",
+      "request": "launch",
+      "mainClass": "TypeConversion",
+      "projectName": "java_files_87f3b032"
+    },
+    {
+      "type": "java",
+      "name": "TypeConversionChar",
+      "request": "launch",
+      "mainClass": "TypeConversionChar",
+      "projectName": "java_files_87f3b032"
+    },
+    {
+      "type": "java",
+      "name": "TypePromotion1",
+      "request": "launch",
+      "mainClass": "TypePromotion1",
+      "projectName": "java_files_87f3b032"
+    },
+    {
+      "type": "java",
+      "name": "TypePromotion2",
+      "request": "launch",
+      "mainClass": "TypePromotion2",
+      "projectName": "java_files_87f3b032"
+    },
+    {
+      "type": "java",
+      "name": "TypePromotion3",
+      "request": "launch",
+      "mainClass": "TypePromotion3",
+      "projectName": "java_files_87f3b032"
+    },
+    {
+      "type": "java",
+      "name": "TypePromotion4",
+      "request": "launch",
+      "mainClass": "TypePromotion4",
+      "projectName": "java_files_87f3b032"
+    },
+    {
+      "type": "java",
+      "name": "TypePromotion5",
+      "request": "launch",
+      "mainClass": "TypePromotion5",
+      "projectName": "java_files_87f3b032"
+    },
+    {
+      "type": "java",
+      "name": "TypePromotion6",
+      "request": "launch",
+      "mainClass": "TypePromotion6",
+      "projectName": "java_files_87f3b032"
+    },
+    {
+      "type": "java",
+      "name": "TypePromotion7",
+      "request": "launch",
+      "mainClass": "TypePromotion7",
+      "projectName": "java_files_87f3b032"
+    },
+    {
+      "type": "java",
+      "name": "UnaryOperator",
+      "request": "launch",
+      "mainClass": "UnaryOperator",
+      "projectName": "java_files_87f3b032"
+    },
+    {
+      "type": "java",
+      "name": "UnaryOperator1",
+      "request": "launch",
+      "mainClass": "UnaryOperator1",
+      "projectName": "java_files_87f3b032"
+    },
+    {
+      "type": "java",
+      "name": "Variable",
+      "request": "launch",
+      "mainClass": "Variable",
+      "projectName": "java_files_87f3b032"
+    },
+    {
+      "type": "java",
+      "name": "javabasics",
+      "request": "launch",
+      "mainClass": "javabasics",
+      "projectName": "java_files_87f3b032"
+    }
+  ]
+}
